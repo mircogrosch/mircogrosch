@@ -15,3 +15,12 @@
 <p align="left">
   <img height="300" width ="500"src="./img/home.jpeg" />
 </p>
+<p align="left">
+  <img height="300" width ="500"src="./img/cards.jpeg" />
+</p>
+<p align="left">
+  <img height="300" width ="500"src="./img/detail.jpeg" />
+</p>
+<p align="left">
+  <img height="300" width ="500"src="./img/form.jpeg" />
+</p>
