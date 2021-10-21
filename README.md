@@ -12,3 +12,6 @@
 <p align="rigth">
   <img height="300" width ="500"src="./img/landing.png" />
 </p>
+<p align="left">
+  <img height="300" width ="500"src="./img/home.jpeg" />
+</p>
