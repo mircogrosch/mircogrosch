@@ -1,3 +1,3 @@
 <p align="center">
-  <img height="500" src="./Hola soy mirco.png" />
+  <img height="300" src="./Hola soy mirco.png" />
 </p>
