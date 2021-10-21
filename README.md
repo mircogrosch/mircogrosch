@@ -8,3 +8,7 @@
 
 ## Food App 
 #### Repositorio:(mircogrosch/Food-App)
+
+<p align="rigth">
+  <img height="300" width ="500"src="./img/landing.png" />
+</p>
