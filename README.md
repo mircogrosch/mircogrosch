@@ -7,7 +7,7 @@
 :wave: Super agradecido de que estes en mi espacio de trabajo personal, contarte que de muy chico soy apasionado del mundo IT, siempre tratando de superar mis propias expectativas, con educación y trabajo en equipo puedo decir que las estoy cumpliendo. En esta presentación voy a expresarte algunos de mis proyectos que he estado realizando. Espero que te se sean de gran aporte :100:  
 
 ## Food App 
-#### Repositorio:(mircogrosch/Food-App)
+#### Repositorio:(mircogrosch/Food-App encontraras información detallada)
 
 <p align="rigth">
   <img height="300" width ="500"src="./img/landing.png" />
@@ -15,6 +15,7 @@
 <p align="left">
   <img height="300" width ="500"src="./img/home.jpeg" />
 </p>
+
 <p align="left">
   <img height="300" width ="500"src="./img/cards.jpeg" />
 </p>
