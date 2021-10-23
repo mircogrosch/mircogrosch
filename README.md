@@ -10,25 +10,25 @@
 #### Repositorio:(mircogrosch/Food-App encontraras información detallada)
 ##### Landing
 <p align="rigth">
-  <img height="300" width ="1000"src="./img/landing.png" />
+  <img height="380" width ="1000"src="./img/landing.png" />
 </p>
 
 ##### Home
 <p align="left">
-  <img height="300"  width ="1000"src="./img/home.jpeg" />
+  <img height="380"  width ="1000"src="./img/home.jpeg" />
 </p>
 
 ##### Cards
 <p align="left">
-  <img height="300"  width ="1000"src="./img/cards.jpeg" />
+  <img height="380"  width ="1000"src="./img/cards.jpeg" />
 </p>
 
 ##### DETALLE CARD
 <p align="left">
-  <img height="300"  width ="1000" src="./img/detail.jpeg" />
+  <img height="380"  width ="1000" src="./img/detail.jpeg" />
 </p>
 
 ##### FORM CREAR RECETAS
 <p align="left">
-  <img height="300"  width ="1000" src="./img/form.jpeg" />
+  <img height="380"  width ="1000" src="./img/form.jpeg" />
 </p>
